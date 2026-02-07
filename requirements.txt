@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+Pillow
+yt-dlp
+groq
+youtube-transcript-api
+pymupdf
+python-docx
