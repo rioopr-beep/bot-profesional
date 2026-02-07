@@ -2,4 +2,4 @@ pyTelegramBotAPI
 yt-dlp
 groq
 PyMuPDF
-Pillow
+youtube-transcript-api
